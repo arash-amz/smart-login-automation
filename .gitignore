@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+venv/
+myenv/
+myenv311/
+
+selectors_weight.json
+playwright-report/
